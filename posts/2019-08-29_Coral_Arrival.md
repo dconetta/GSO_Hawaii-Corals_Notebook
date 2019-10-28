@@ -3,8 +3,6 @@ layout: post
 title: Coral Arrival at GSO
 ---
 
-## 20190829 – Arrival of the Corals
-
 ---
 ***Upkeep protocol and daily measurements located in HI_Corals directory in Google Drive: [HI_Corals](https://drive.google.com/drive/u/1/folders/1Dxil5Lj1ynvuIuGDWx9_AyqkdplIcCZQ)***
 
