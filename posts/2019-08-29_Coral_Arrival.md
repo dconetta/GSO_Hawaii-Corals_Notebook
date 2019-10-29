@@ -25,4 +25,5 @@ title: Coral Arrival at GSO
             - Light Intensity was measured across the racks in three different positions to see if there were any noticeable changes in light intensity.  
                 - At first light was taken with the glass tops on (light was above the glass shinning into tank) but later had them taken again without the tops because they were a little more opaque than I wanted.  
                 - PAR sensor also may be broken – only reading in the mid 50’s and when I tested it with the Ocean Revive Lights (same lights I had in the May-July 2019 Hawaii work – See Holobiont light levels) the PAR sensor was reading about 230 with CH1 and CH2 at 20% (same settings as field work) but 100 units lower.  
-    - See HI Daily Coral Measurements for details
+
+
